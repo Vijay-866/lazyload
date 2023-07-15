@@ -147,6 +147,7 @@ Tens of millions of pageviews are served each month using this project:
 * [winni.in](https://www.winni.in)
 * [giftzbag.com](https://www.giftzbag.com)
 * [younetworth.com](https://younetworth.com/)
+* [hyderabadgiftsdelivery.com](https://hyderabadgiftsdelivery.com)
 
 .. And many unlisted websites, [add yours](https://github.com/vvo/lazyload/edit/master/README.md)!
 
